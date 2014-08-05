@@ -1,6 +1,8 @@
 ---
 category: syllabus
 title: Syllabus
+category: syllabus
+layout: syllabus
 ---
 
 # Books
