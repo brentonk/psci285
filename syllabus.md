@@ -236,7 +236,7 @@ The following books are required:
   *Comparative Politics* 32, no. 3 (2000): 253--272.
 
 * Matthew K. Lange,
-  *["British Colonial Legacies and Political Development,"](http://dx.doi.org/10.1016/j.worlddev.2003.12.001)
+  ["British Colonial Legacies and Political Development,"](http://dx.doi.org/10.1016/j.worlddev.2003.12.001)
   *World Development* 32, no. 6 (2004): 905--922.
 
 * Ola Olsson,
