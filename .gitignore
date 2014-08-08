@@ -1,2 +1,4 @@
 _site/
 .DS_Store
+/syllabus-psci-285.bbl
+/syllabus-body.tex

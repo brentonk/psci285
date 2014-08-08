@@ -2,6 +2,7 @@
 category: syllabus
 title: Syllabus
 layout: syllabus
+pdf: syllabus-psci-285.pdf
 ---
 
 # Description
