@@ -132,6 +132,14 @@ The following books are required:
 
 # Schedule
 
+The schedule of readings is tentative and is subject to change.  I will
+inform you at least a week in advance of any changes to the required
+readings.
+
+Links to all journal articles are available in the syllabus on the course
+website, <http://bkenkel.com/psci285/syllabus.html>.
+
+
 ## Introduction
 
 ### August 20--22: Levels of Analysis in International Relations
